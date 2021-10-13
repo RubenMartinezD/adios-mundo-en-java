@@ -1,0 +1,6 @@
+# Secucopias
+*.bak
+
+#CLases compiladas
+*.class
+
